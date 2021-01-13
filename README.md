@@ -2,7 +2,8 @@
 
 Hey builders let's get to building Fable with Travis CI! Let's start out with your `.travis.yml` file:
 
-```language: minimal
+```yaml
+language: minimal
 
 services:
   - docker
