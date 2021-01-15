@@ -1,3 +1,18 @@
+---
+title: "The Cookbook: Fable"
+created_at: Friday 15 Jan 2021 15:00:00 EDT
+author: Montana Mendy
+layout: post
+permalink: 2021-01-15-fable
+category: news
+excerpt_separator: <!-- more --> 
+tags:
+  - news
+  - feature
+  - infrastructure
+  - community
+---
+
 ## Build Fable with Travis CI
 
 Hey builders let's get to building Fable with Travis CI! Let's start out with your `.travis.yml` file:
